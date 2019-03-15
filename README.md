@@ -1,29 +1,13 @@
 # pm2-dashboard
 
-## Project setup
-```
-npm install
-```
+A quick proof-of-concept frontend/dashboard using [pm2-io-js-api](https://github.com/keymetrics/pm2-io-js-api).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Quickstart
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* Fill in your `.env` file with your own `CLIENT_ID`, `REFRESH_TOKEN` and `BUCKET_ID`
+* `npm install` dependencies
+* `npm run serve` and follow the link `vue-cli-service` gives you
 
-### Run your tests
-```
-npm run test
-```
+## Preview
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+TODO
